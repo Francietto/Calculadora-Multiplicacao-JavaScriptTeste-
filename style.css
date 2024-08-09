@@ -1,0 +1,17 @@
+#calculator{
+    border-radius: 10%;
+    width: 22%;
+    height: 400px;
+    /* padding: 4%;
+    padding-bottom: 15%; */
+    margin-top: 2%;
+    margin-left: 25px;
+    background-color: coral;
+    margin: auto;
+}
+
+.estilizar{
+    text-align: center;
+   
+   
+}
